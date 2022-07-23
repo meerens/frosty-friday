@@ -1,12 +1,15 @@
-# Frosty Friday: Snowflake Challenges 
+## Frosty Friday: Weekly Snowflake Challenges 
  
-This repository contains my compiled sql solutions and documentation for the '[Frosty Friday ❄️](https://frostyfriday.org/)' challenges I completed so far. Keep watching 👀 this space as I add on more solutions.<br>
+This repository contains my compiled sql solutions and documentation for the '[Frosty Friday](https://frostyfriday.org/)' challenges I completed so far. Keep watching 👀 this space as I add on more solutions.<br>
 
-### Challenge index
+### `Challenge index`
 
-| 📆     | Difficulty   | Topic           | My documentation                                    |
-| ------ | ------------ | --------------- | --------------------------------------------------- |
-| Week 1 | Basic        | External Stages | [Click here](https://www.craft.do/s/E9OzQH5LblhUHt) |
+| 📆     | Difficulty | Topic            | My documentation                                    |
+| ------ | ---------- | ---------------- | --------------------------------------------------- |
+| Week 1 | Basic      | External Stages  | [Click here](https://www.craft.do/s/E9OzQH5LblhUHt) |
+| Week 3 | Basic      | Metadata Queries | [Click here](https://www.craft.do/s/K03sY2JoJWQqAJ) |
+
+
 
 
 
